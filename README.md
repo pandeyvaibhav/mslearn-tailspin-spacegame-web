@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/mystudios/CoreProjects/_apis/build/status/pandeyvaibhav.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/mystudios/CoreProjects/_build/latest?definitionId=16&branchName=master)
+[![Build Status](https://dev.azure.com/mystudios/CoreProjects/_apis/build/status/pandeyvaibhav.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/mystudios/CoreProjects/_build/latest?definitionId=16&branchName=master) / [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pandeyvaibhav_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=pandeyvaibhav_mslearn-tailspin-spacegame-web)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
