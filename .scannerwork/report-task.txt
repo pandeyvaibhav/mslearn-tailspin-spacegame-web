@@ -1,0 +1,7 @@
+organization=space-game-web-xy
+projectKey=pandeyvaibhav_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.7716
+dashboardUrl=https://sonarcloud.io/dashboard?id=pandeyvaibhav_mslearn-tailspin-spacegame-web
+ceTaskId=AXIAPR62U7VKqSoIzlLi
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIAPR62U7VKqSoIzlLi
